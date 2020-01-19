@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mikkos-website/static/css/main.d1b05096.chunk.css",
+    "main.js": "/mikkos-website/static/js/main.fca8fc75.chunk.js",
+    "main.js.map": "/mikkos-website/static/js/main.fca8fc75.chunk.js.map",
+    "runtime-main.js": "/mikkos-website/static/js/runtime-main.4a68a418.js",
+    "runtime-main.js.map": "/mikkos-website/static/js/runtime-main.4a68a418.js.map",
+    "static/js/2.5ff0a3fd.chunk.js": "/mikkos-website/static/js/2.5ff0a3fd.chunk.js",
+    "static/js/2.5ff0a3fd.chunk.js.map": "/mikkos-website/static/js/2.5ff0a3fd.chunk.js.map",
+    "index.html": "/mikkos-website/index.html",
+    "precache-manifest.a7c5f8e4482642ead115dcf93e6cd129.js": "/mikkos-website/precache-manifest.a7c5f8e4482642ead115dcf93e6cd129.js",
+    "service-worker.js": "/mikkos-website/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/mikkos-website/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5ff0a3fd.chunk.js.LICENSE": "/mikkos-website/static/js/2.5ff0a3fd.chunk.js.LICENSE",
+    "static/media/logo.svg": "/mikkos-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a68a418.js",
+    "static/js/2.5ff0a3fd.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fca8fc75.chunk.js"
+  ]
+}
