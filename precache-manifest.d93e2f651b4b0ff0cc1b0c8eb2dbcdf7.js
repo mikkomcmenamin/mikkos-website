@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41a02fda4e05b7174367d67653dc81c3",
+    "revision": "d3091c97c86c1c69770416264d07331f",
     "url": "/mikkos-website/index.html"
   },
   {
-    "revision": "7ddf0bcebf0f75dba59a",
+    "revision": "2b8a1e50fec9a1af3b34",
     "url": "/mikkos-website/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mikkos-website/static/js/2.5ff0a3fd.chunk.js.LICENSE"
   },
   {
-    "revision": "7ddf0bcebf0f75dba59a",
-    "url": "/mikkos-website/static/js/main.fca8fc75.chunk.js"
+    "revision": "2b8a1e50fec9a1af3b34",
+    "url": "/mikkos-website/static/js/main.30aa65a7.chunk.js"
   },
   {
     "revision": "ac9a2901c2c86310ff4a",
